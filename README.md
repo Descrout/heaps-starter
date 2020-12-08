@@ -1,10 +1,10 @@
 # Installation
 - Install Haxe : https://haxe.org/download/
 - Install Hashlink : https://hashlink.haxe.org/#download
-- haxelib install heaps ``or`` haxelib git heaps https://github.com/HeapsIO/heaps.git
-- haxelib install hldx
-- haxelib install hlopenal
-- haxelib install hlsdl
+- ``haxelib install heaps`` or ``haxelib git heaps https://github.com/HeapsIO/heaps.git``
+- ``haxelib install hldx``
+- ``haxelib install hlopenal``
+- ``haxelib install hlsdl``
 
 # Project Structure
 ```
@@ -20,7 +20,7 @@
 ```
 -cp src
 -lib heaps
--lib hlsdl	#lib hldx for windows
+-lib hlsdl #lib hldx for windows
 -hl main.hl
 -main Main
 #-D windowSize=1366x768
