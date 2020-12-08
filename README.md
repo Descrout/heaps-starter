@@ -1,7 +1,7 @@
 # Installation
 - Install Haxe : https://haxe.org/download/
 - Install Hashlink : https://hashlink.haxe.org/#download
-- haxelib install heaps
+- haxelib install heaps ``or`` haxelib git heaps https://github.com/HeapsIO/heaps.git
 - haxelib install hldx
 - haxelib install hlopenal
 - haxelib install hlsdl
