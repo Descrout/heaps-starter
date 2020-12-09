@@ -7,6 +7,7 @@
 - ``haxelib install hldx``
 - ``haxelib install hlopenal``
 - ``haxelib install hlsdl``
+- ``git clone https://github.com/Descrout/heaps-starter.git``
 
 # Project Structure
 ```
