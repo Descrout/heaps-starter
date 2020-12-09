@@ -1,6 +1,7 @@
 # Installation
 - Install Haxe : https://haxe.org/download/
-- Install Hashlink : https://hashlink.haxe.org/#download
+- Install Hashlink : [download](https://github.com/HaxeFoundation/hashlink/releases) & [build](https://github.com/HaxeFoundation/hashlink/wiki/Building-and-Installing)
+- For Windows Path : https://docs.alfresco.com/4.2/tasks/fot-addpath.html
 - Install Git : https://git-scm.com/downloads
 - ``haxelib install heaps`` or ``haxelib git heaps https://github.com/HeapsIO/heaps.git``
 - ``haxelib install hldx``
